@@ -1,0 +1,172 @@
+.body{
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  background-color: black;
+}
+
+.top-nav {
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+    font-size: 12px;
+    height: 37px;
+    background-color: white;
+    z-index: 1;
+}
+
+.bottom-nav {
+    background-color: black;
+    top: 37px;
+    font-size: 14px;
+    font-family: Geograph;
+    
+}
+
+.navbar-brand {
+  height: 50px;
+  padding: 0px;
+  margin-left: 0px;
+}
+
+/* .navbar-brand img {
+  height: 100%;
+  width: auto;
+} */
+
+.review-carousel{
+    background-color: black;
+    color: white;
+    padding: 5rem;
+    text-align: center;
+}
+
+.stars{
+  color: #A08A70;
+  font-size: 20px;
+}
+.review-logos {
+    background-color: black;
+}
+
+.tagline-box {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  font-size: 18px;
+  padding: 100px;
+  line-height: 200%;
+  position: relative
+}
+
+/* .rotate {
+  transform: rotate(-90deg);
+} */
+
+.carousel .prod-carousel-indciatiors{
+  /* bottom: -50px; */
+  background-image: url(images\ProductCarousel\BedFrame.png);
+}
+
+.prod-carousel{
+  background-color: transparent;
+  z-index: 1;
+  position: relative;
+  top: -75px;
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  box-shadow: blanchedalmond;
+}
+.wellsville-img{
+  fill: black; 
+  width: 103px;
+  height: 35px;
+  justify-content: center;
+  padding-top: 0%;
+}
+
+.saltFlat-img{
+  justify-content: baseline;
+  padding-top: 5px;
+}
+
+.nav-text{
+  padding-top: 10px;
+}
+
+.main-carousel-css{
+  padding-top: 8em;
+}
+
+.carousel .carousel-control-prev-icon {
+  /* change fill="currentColor" to %23fff to make it white  */
+    background-image: url("/images/MainCarousel/leftArrow.svg");
+
+  }
+  
+.carousel .carousel-control-next-icon {
+  /* change fill="currentColor" to %23fff to make it white  */
+  background-image: url('/images/MainCarousel/rightArrow.png');
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon{
+  bottom: 110%;
+} 
+
+.carousel .carousel-indicators li {
+  width: 10px;
+ height: 10px;
+ border-radius: 100%;
+}
+
+.main-text{
+  height: 129px;
+}
+
+.main-left-text{
+  background-color: black;
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  color: white;
+  justify-content: center;
+  font-size: 16px;
+  text-align: left;
+  margin-left: 15px;
+  ;
+}
+
+.nav-link{
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  color: white;
+  text-justify: center;
+  padding-bottom: 5px;
+}
+
+.social-links {
+  padding-left: 14px;
+  border-left: 1px solid black;
+  width: 130px;
+  flex-shrink: 0;
+}
+
+.footer-css {
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  
+}
+
+.purpose .card{
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  color: white;
+  background-color: black;
+  justify-content: center;
+  padding: 3em;
+}
+.purpose .btn {
+  background-color: white;
+  color: black;
+}
+
+.bestSellers{
+  font-family: 'Neutra Text TF Light Alt', sans-serif;
+  margin-top: 5em;
+}
+
+.bestSellers .card{
+  color: black;
+}

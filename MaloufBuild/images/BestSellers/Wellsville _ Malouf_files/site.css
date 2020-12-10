@@ -1,0 +1,58 @@
+.top-nav {
+    font-family: Geograph;
+    font-size: 12px;
+    height: 37px;
+    background-color: white;
+}
+
+.bottom-nav {
+    background-color: black;
+}
+
+.navbar-brand {
+  height: 50px;
+  padding: 0px;
+  margin-left: 0px;
+}
+
+.navbar-brand img {
+  height: 100%;
+  width: auto;
+
+}
+
+.review-carousel{
+    background-color: black;
+    color: white;
+}
+
+.review-logos {
+    background-color: black;
+}
+
+.tagline-box {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.rotate {
+  transform: rotate(-90deg);
+}
+
+.prod-carousel-indciatiors{
+  /* bottom: -50px; */
+  background-image: url(images\ProductCarousel\BedFrame.png);
+}
+
+.wellsville-img{
+  fill: black; 
+  width: 103px;
+  height: 35px;
+  justify-content: center;
+  padding-top: 0%;
+}
+
+saltFlat-img{
+  justify-content: baseline;
+}
